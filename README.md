@@ -5,7 +5,7 @@
 
 <h2 align='center'>Dariusz Pilecki<h2/>
 
-<h1 align='center'><strong> Początkujący programista <strong/><h1/>
+<h3 align='center'><strong> Początkujący programista <strong/><h3/>
 
 
 Nazywam się Dariusz i jestem początkującym programistą. Programowanie to moja pasja, rozrywka oraz sposób na ciekawe spędzanie wolnego czasu. Chciałbym aby w przyszłości była to także moja profesja. Pierwsze linijki kodu napisałem dwa lata temu. Dzisiaj nie potrafię sobie wyobrazić dnia bez kodowania. Jako główną ścieżkę w programowaniu wybrałem technologie backendowe i frontendowe oparte o JavaScript. W moich projektach IOT wykorzystuję jednak również Python i C++. Mam też na koncie kilka projektów wykonanych komercyjnie.
