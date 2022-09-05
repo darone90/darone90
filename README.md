@@ -3,7 +3,7 @@
 
 #### English version below
 
-<center><font size=6><strong>Dariusz Pilecki
+<h2 align='center'>Dariusz Pilecki<h2/>
 
 <center><font size=4><strong>Początkujący programista
 
