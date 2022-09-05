@@ -5,7 +5,7 @@
 
 <center>
 
-<font size=6><strong>Dariusz Pilecki
+<font size=6><strong>Dariusz Pilecki<strong/>
 
 <center/>
 
