@@ -5,11 +5,8 @@
 
 <center><font size=6><strong>Dariusz Pilecki
 
-<center>
+<center><font size=4><strong>Początkujący programista
 
-<font size=4><strong>Początkujący programista
-
-<center/>
 
 Nazywam się Dariusz i jestem początkującym programistą. Programowanie to moja pasja, rozrywka oraz sposób na ciekawe spędzanie wolnego czasu. Chciałbym aby w przyszłości była to także moja profesja. Pierwsze linijki kodu napisałem dwa lata temu. Dzisiaj nie potrafię sobie wyobrazić dnia bez kodowania. Jako główną ścieżkę w programowaniu wybrałem technologie backendowe i frontendowe oparte o JavaScript. W moich projektach IOT wykorzystuję jednak również Python i C++. Mam też na koncie kilka projektów wykonanych komercyjnie.
 
@@ -132,17 +129,9 @@ pileckidariusz90@gmail.com
 
 # Welcome to my Github
 
-<center>
+<center><font size=6><strong>Dariusz Pilecki
 
-<font size=6><strong>Dariusz Pilecki
-
-<center/>
-
-<center>
-
-<font size=4><strong>Beginner programmer
-
-<center/>
+<center><font size=4><strong>Beginner programmer
 
 My name is Dariusz and I`m a beginner programmer. Programming is my passion, entertainment, and idea for free time. I want it to be also my profession.  I wrote my first code 2 years ago. Now I can't imagine day without programming.  My main path in programming world is backend and frontend in JavaScript but also in my IOT projects I like to use Python or C++.  I have several projects commercially made.
 
