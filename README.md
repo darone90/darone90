@@ -129,9 +129,9 @@ pileckidariusz90@gmail.com
 
 # Welcome to my Github
 
-<center><font size=6><strong>Dariusz Pilecki
+<h1 align='center'>Dariusz Pilecki<h1/>
 
-<center><font size=4><strong>Beginner programmer
+<h2 align='center'>Beginner programmer<h2/>
 
 My name is Dariusz and I`m a beginner programmer. Programming is my passion, entertainment, and idea for free time. I want it to be also my profession.  I wrote my first code 2 years ago. Now I can't imagine day without programming.  My main path in programming world is backend and frontend in JavaScript but also in my IOT projects I like to use Python or C++.  I have several projects commercially made.
 
