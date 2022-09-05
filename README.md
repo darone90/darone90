@@ -3,11 +3,7 @@
 
 #### English version below
 
-<center>
-
-<font size=6><strong>Dariusz Pilecki<strong/>
-
-<center/>
+<center><font size=6><strong>Dariusz Pilecki
 
 <center>
 
