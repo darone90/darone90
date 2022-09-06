@@ -84,7 +84,7 @@ https://github.com/darone90/card_front
 
 Aplikacja jest dostępna pod adresem:
 
-<center>https://techniczny.site
+<center>https://www.techniczny.site
 
 Aplikacja uruchomiona w  PM2 korzysta z serwera Nginx revers proxy .  Certyfikat SSL  utworzony z Let`s Encrypt.
 
@@ -114,7 +114,7 @@ Zapraszam do odwiedzenia mojej strony gdzie chciałbym się dzielić moimi proje
 
 Stronę można znaleźć pod adresem:
 
-<center><strong> https://techniczny.site
+<center><strong> https://www.techniczny.site
 
 ## Co robię teraz? I co dalej  ?
 
@@ -205,7 +205,7 @@ https://github.com/darone90/card_back
 
 https://github.com/darone90/card_front
 
-Application is available on address: https://techniczny.site
+Application is available on address: https://www.techniczny.site
 
 App working on PM2 with Enginx reverse proxy server. SSL certificate from Let`s Encrypt.
 
@@ -237,7 +237,7 @@ I invite you to visit my site where I`m sharing with my programming, automation,
 
 Site address:
 
-<center><strong> https://techniczny.site
+<center><strong> https://www.techniczny.site
 
 ## What's now ? What's next ?
 
